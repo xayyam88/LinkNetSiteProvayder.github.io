@@ -3,5 +3,5 @@ window.onload = function() {
     function foo() {
        preloader.style.display = 'none';
     }
-    setInterval(foo, 3000);
+    setInterval(foo, 2000);
 }
